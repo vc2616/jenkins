@@ -1,0 +1,12 @@
+pipeline {
+    any agent
+        stages{
+           stage('Fatch Code'){
+              steps{
+                 git branch: 'pccc', url: 'git@github.com:vc2616/jenkins.git'
+              }
+           }
+        }
+    }
+
+}
