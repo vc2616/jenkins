@@ -6,7 +6,14 @@ pipeline {
                  git branch: 'pccc', url: 'git@github.com:vc2616/jenkins.git'
               }
            }
-        }
-    }
-
+        }   stage('Build'){
+               steps{
+                  sh 'mvn install'
+               }
+           }
+             stage('Test'){
+               steps {
+                  sh 'mvn test'
+               }
+             }
 }
