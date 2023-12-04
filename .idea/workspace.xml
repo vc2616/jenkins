@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bee0c992-ab61-47a5-a286-9a4e08af9103" name="Changes" comment="code1">
+    <list default="true" id="bee0c992-ab61-47a5-a286-9a4e08af9103" name="Changes" comment="code2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Jenkins" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkins" afterDir="false" />
     </list>
@@ -47,11 +47,19 @@
       <option name="project" value="LOCAL" />
       <updated>1701712152071</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="code2">
+      <created>1701712468589</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701712468589</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="code1" />
-    <option name="LAST_COMMIT_MESSAGE" value="code1" />
+    <MESSAGE value="code2" />
+    <option name="LAST_COMMIT_MESSAGE" value="code2" />
   </component>
 </project>
